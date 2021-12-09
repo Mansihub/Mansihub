@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mansihub
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...web development
+- 👀 I’m interested in ...web development,machine learning
+- 🌱 I’m currently exploring ...web development and machinne learning
 - 💞️ I’m looking to collaborate on ...projects related to web development
 - 📫 How to reach me ...Linkedin id: https://www.linkedin.com/in/mansi-vashistha-6921741ba
 
